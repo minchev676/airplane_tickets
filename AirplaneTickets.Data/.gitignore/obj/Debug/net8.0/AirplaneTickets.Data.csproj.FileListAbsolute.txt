@@ -1,0 +1,42 @@
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.deps.json
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.runtimeconfig.json
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.pdb
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.AssemblyInfo.cs
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\refint\AirplaneTickets.Data.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.pdb
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.genruntimeconfig.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\ref\AirplaneTickets.Data.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.deps.json
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.runtimeconfig.json
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.pdb
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.csproj.AssemblyReference.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.AssemblyInfoInputs.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.AssemblyInfo.cs
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.csproj.CoreCompileInputs.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\refint\AirplaneTickets.Data.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.pdb
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.genruntimeconfig.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\ref\AirplaneTickets.Data.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.deps.json
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.runtimeconfig.json
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\bin\Debug\net8.0\AirplaneTickets.Data.pdb
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.csproj.AssemblyReference.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.AssemblyInfoInputs.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.AssemblyInfo.cs
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.csproj.CoreCompileInputs.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\refint\AirplaneTickets.Data.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.pdb
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\AirplaneTickets.Data.genruntimeconfig.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets.Data\obj\Debug\net8.0\ref\AirplaneTickets.Data.dll

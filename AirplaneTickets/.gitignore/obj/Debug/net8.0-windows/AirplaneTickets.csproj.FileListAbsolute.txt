@@ -1,0 +1,117 @@
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.exe
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.deps.json
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.runtimeconfig.json
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.pdb
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Data.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Services.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Data.pdb
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Services.pdb
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.AssemblyReference.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.Form1.resources
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.LoginForm.resources
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.GenerateResource.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.AssemblyInfoInputs.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.AssemblyInfo.cs
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\Airplane.044343C1.Up2Date
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\refint\AirplaneTickets.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.pdb
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.genruntimeconfig.cache
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\ref\AirplaneTickets.dll
+C:\Users\teodo\Desktop\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.Properties.Resources.resources
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.exe
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.deps.json
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.runtimeconfig.json
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.pdb
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Data.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Services.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Data.pdb
+D:\12a\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Services.pdb
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.AssemblyReference.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.Form1.resources
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.LoginForm.resources
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.Properties.Resources.resources
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.GenerateResource.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.AssemblyInfoInputs.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.AssemblyInfo.cs
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.CoreCompileInputs.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\Airplane.044343C1.Up2Date
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\refint\AirplaneTickets.dll
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.pdb
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.genruntimeconfig.cache
+D:\12a\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\ref\AirplaneTickets.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.AssemblyReference.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.Form1.resources
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.LoginForm.resources
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.Properties.Resources.resources
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.GenerateResource.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.AssemblyInfoInputs.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.AssemblyInfo.cs
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.csproj.CoreCompileInputs.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\refint\AirplaneTickets.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.pdb
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.exe
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.deps.json
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.runtimeconfig.json
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.pdb
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Data.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Services.dll
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Data.pdb
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\bin\Debug\net8.0-windows\AirplaneTickets.Services.pdb
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\Airplane.044343C1.Up2Date
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\AirplaneTickets.genruntimeconfig.cache
+C:\Users\iminc\OneDrive\IT кариера\11ти клас\Софтуер проектна работа\Project\Project\AirplaneTickets\AirplaneTickets\obj\Debug\net8.0-windows\ref\AirplaneTickets.dll

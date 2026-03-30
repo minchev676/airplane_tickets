@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirplaneTickets", "AirplaneTickets\AirplaneTickets.csproj", "{DE4F6388-BA63-4071-AD4C-F2B9DFB5B4ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirplaneTickets.Data", "AirplaneTickets.Data\AirplaneTickets.Data.csproj", "{8B52FE4C-6F8D-454F-8CB4-379F828E164C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirplaneTickets.Services", "AirplaneTickets.Services\AirplaneTickets.Services.csproj", "{C2366E11-1A58-4B00-A037-1FC43BCA28A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{A31AA805-3127-40B7-B342-8D2032888B07}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Projects\PROJECT24\PROJECT24\Resources\bulgaria-air-Airbus_320-1024x439-removebg-preview (2).png = ..\..\Projects\PROJECT24\PROJECT24\Resources\bulgaria-air-Airbus_320-1024x439-removebg-preview (2).png
+		..\..\Projects\PROJECT24\PROJECT24\Resources\mg_air_down_logo_gray.png = ..\..\Projects\PROJECT24\PROJECT24\Resources\mg_air_down_logo_gray.png
+		..\..\Projects\PROJECT24\PROJECT24\Resources\new logo.png = ..\..\Projects\PROJECT24\PROJECT24\Resources\new logo.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{7E8E404C-4A90-4E1A-9D4F-378CB253065B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4F6388-BA63-4071-AD4C-F2B9DFB5B4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4F6388-BA63-4071-AD4C-F2B9DFB5B4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4F6388-BA63-4071-AD4C-F2B9DFB5B4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4F6388-BA63-4071-AD4C-F2B9DFB5B4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B52FE4C-6F8D-454F-8CB4-379F828E164C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B52FE4C-6F8D-454F-8CB4-379F828E164C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B52FE4C-6F8D-454F-8CB4-379F828E164C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B52FE4C-6F8D-454F-8CB4-379F828E164C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2366E11-1A58-4B00-A037-1FC43BCA28A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2366E11-1A58-4B00-A037-1FC43BCA28A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2366E11-1A58-4B00-A037-1FC43BCA28A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2366E11-1A58-4B00-A037-1FC43BCA28A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8E404C-4A90-4E1A-9D4F-378CB253065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8E404C-4A90-4E1A-9D4F-378CB253065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8E404C-4A90-4E1A-9D4F-378CB253065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8E404C-4A90-4E1A-9D4F-378CB253065B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74026DF2-E86D-4D43-93B6-660DCBC03B50}
+	EndGlobalSection
+EndGlobal
